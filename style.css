@@ -11,7 +11,14 @@
 /*SECTION AUTHOR SERVICES CAROUSSEL*/
 #services{
     border: 1px solid black;
-    height: 311px;
+    height: 100%;
+}
+#carouselExampleCaptions{
+    height: 200px;
+}
+.carousel-control-next-icon{
+    color: black;
+    background-color: black;
 }
 
 /*SECTION CONTACT NEWSLETTER CARTE*/
