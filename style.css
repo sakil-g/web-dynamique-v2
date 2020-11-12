@@ -12,7 +12,9 @@ hr {
 }
 
 /*SECTION CARDS PRESENTATION*/
-
+.cartePresentation{
+    margin-top: -50px;
+}
 
 /*SECTION HUMAN*/
 .parallax {
