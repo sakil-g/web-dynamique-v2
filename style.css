@@ -12,9 +12,10 @@ hr {
 }
 
 /*SECTION CARDS PRESENTATION*/
-.cartePresentation{
-    margin-top: -50px;
+.cardImage{
+    margin-top: -100px;
 }
+
 
 /*SECTION HUMAN*/
 .parallax {
@@ -26,11 +27,13 @@ hr {
   
     
     background-attachment: fixed;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
   }
-
+.boutonContact{
+    width: 300px;
+}
 
 /*SECTION AUTHOR SERVICES CAROUSSEL*/
 #services{
@@ -55,9 +58,13 @@ hr {
     /*HEADERS*/
     
     /*SECTION CARDS PRESENTATION*/
-    
+    .cardImage{
+        margin-top: -20px;
+    }
     /*SECTION HUMAN*/
-    
+    .boutonContact{
+        width: 250px;
+    }
     
     /*SECTION AUTHOR SERVICES CAROUSSEL*/
     
@@ -74,9 +81,16 @@ hr {
 /*HEADERS*/
 
 /*SECTION CARDS PRESENTATION*/
-
+.cardImage{
+    margin-top: 0;
+}
+.card-body{
+    text-align: center;
+}
 /*SECTION HUMAN*/
-
+.boutonContact{
+    width: 200px;
+}
 
 /*SECTION AUTHOR SERVICES CAROUSSEL*/
 
