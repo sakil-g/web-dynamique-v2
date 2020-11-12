@@ -6,7 +6,19 @@
 
 
 /*SECTION HUMAN*/
-
+.parallax {
+    /* The image used */
+    background-image: url("ressources/portrait-of-businessman.jpg");
+  
+    
+    height: 406px;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
 
 /*SECTION AUTHOR SERVICES CAROUSSEL*/
