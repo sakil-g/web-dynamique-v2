@@ -3,6 +3,9 @@
 /*HEADERS*/
 
 /*SECTION CARDS PRESENTATION*/
+.card{
+    border: none;
+}
 
 /*SECTION HUMAN*/
 
